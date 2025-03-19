@@ -1,0 +1,14 @@
+
+# Ignore .idea folders inside any subfolder
+**/.idea/
+.idea/
+
+
+# Ignore all .iml files (used by IntelliJ IDEA for project configuration)
+*.iml
+
+# Ignore all .xml files (used by IntelliJ IDEA for project configuration in .idea folders)
+*.xml 
+
+# Ignore any .gitignore file in any directory
+**/.gitignore
